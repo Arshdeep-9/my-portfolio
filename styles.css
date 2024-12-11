@@ -1,4 +1,4 @@
-/* Global Styles */
+
 * {
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ h1, h2, h3 {
     font-family: 'Poppins', sans-serif;
 }
 
-/* Header */
+
 header {
     background-color: #4a90e2;
     color: white;
@@ -47,7 +47,7 @@ header p {
     background-color: #00b4d8;
 }
 
-/* About Section */
+
 #about {
     display: flex;
     justify-content: space-between;
@@ -67,7 +67,7 @@ header p {
     border-radius: 50%;
 }
 
-/* Services Section */
+
 #services {
     background-color: #fff;
     padding: 50px 20px;
@@ -104,7 +104,6 @@ header p {
     margin-bottom: 10px;
 }
 
-/* CTA Section */
 #cta {
     background-color: #121212;
     color: white;
@@ -121,7 +120,7 @@ header p {
     margin-bottom: 20px;
 }
 
-/* Footer Section */
+
 footer {
     text-align: center;
     padding: 30px 20px;
